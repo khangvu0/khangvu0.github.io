@@ -328,6 +328,7 @@ img {
 
 .home_scroll {
     /* display: none; */
+    margin-left: var(--mb-2-5);
 }
 
 .home_scroll-button {
@@ -869,11 +870,14 @@ img {
     }
 
     .about_container,
-    .skills_container,
+    /* .skills_container, UNCOMMENT WHEN MORE THAN 2 SKILLS*/
     .portfolio_content,
-    .contact_container,
-    .footer_container {
+    .contact_container {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .skills_container {
+        row-gap: 6rem;
     }
     
     .qualification_sections {
@@ -951,6 +955,8 @@ img {
 
     .home_scroll {
         display: block;
+        margin-left: 0;
+        margin-top: -5rem;
     }
 
     .home_scroll-button {
@@ -974,7 +980,7 @@ img {
     }
 
     .about_buttons {
-        justify-content: initial;
+        justify-content: center;
     }
 
     .qualification_tabs {
@@ -1028,6 +1034,10 @@ img {
 
     .home_blob {
         width: 320px;
+    }
+
+    .home_scroll {
+        margin-left: 0;
     }
 
     .home_social {
