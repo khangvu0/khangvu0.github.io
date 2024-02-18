@@ -328,7 +328,6 @@ img {
 
 .home_scroll {
     /* display: none; */
-    margin-left: var(--mb-2-5);
 }
 
 .home_scroll-button {
@@ -845,6 +844,10 @@ img {
         width: 180px;
     }
 
+    .home_scroll {
+        margin-left: var(--mb-2-5);
+    }
+
     .skills_title {
         font-size: var(--normal-font-size);
     }
@@ -867,6 +870,10 @@ img {
     .home_img {
         order: 1;
         justify-self: center;
+    }
+
+    .home_scroll {
+        margin-left: var(--mb-2-5);
     }
 
     .about_container,
