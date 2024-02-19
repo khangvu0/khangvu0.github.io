@@ -499,7 +499,7 @@ img {
 }
 
 .skills_c {
-    width: 80%;
+    width: 75%;
 }
 
 .skills_python {
@@ -507,19 +507,7 @@ img {
 }
 
 .skills_node {
-    width: 15%;
-}
-
-.skills_figma {
     width: 20%;
-}
-
-.skills_sketch {
-    width: 30%;
-}
-
-.skills_photoshop {
-    width: 60%;
 }
 
 .skills_close .skills_list {
