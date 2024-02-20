@@ -43,4 +43,4 @@ As this was my first project using JavaScript with HTML and CSS, there was many 
 
 ## Acknowledgements
 
-I would like to thank [bebimcode] for their excellent tutorial on creating a [responsive portfolio website](https://github.com/bedimcode/responsive-portfolio-website-Alexa). You can find the original tutorial [here](https://www.youtube.com/watch?v=27JtRAI3QO8). This tutorial was instrumental in helping me understand how to use JavaScript with HTML/CSS, Unicons, Swiper which I used in this project.
+I would like to thank [bebimcode] for their excellent tutorial on creating a [responsive portfolio website](https://github.com/bedimcode/responsive-portfolio-website-Alexa). You can find the original tutorial [here](https://www.youtube.com/watch?v=27JtRAI3QO8). This tutorial was instrumental in helping me understand how to use JavaScript with HTML/CSS and what Unicons and Swiper are, which I used in this project.
