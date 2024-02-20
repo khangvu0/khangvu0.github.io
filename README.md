@@ -37,7 +37,7 @@ As this was my first project using JavaScript with HTML and CSS, there was many 
 - VS Code shortcuts for class(.) and id(#).
 - The importance to code tidiness and organization.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](/preview.png)
 
