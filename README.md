@@ -23,11 +23,6 @@ You can view a live demo of the website [here](https://khangvu0.github.io.).
 - Smooth scrolling
 - Compatible with all mobile devices
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-
 ## Lessons Learned
 
 As this was my first project using JavaScript with HTML and CSS, there was many lessons learned. They are:
@@ -41,6 +36,10 @@ As this was my first project using JavaScript with HTML and CSS, there was many 
 - Proper folder organization.
 - VS Code shortcuts for class(.) and id(#).
 - The importance to code tidiness and organization.
+
+## Screenshots
+
+![Screenshot 1](/preview.png)
 
 ## Acknowledgements
 
