@@ -15,7 +15,7 @@ You can view a live demo of the website [here](https://khangvu0.github.io.).
 ## Features
 
 - Responsive design
-- Project showcase
+- Project showcase 
 - About me section
 - Skills section
 - Contact form
