@@ -832,10 +832,6 @@ img {
         width: 180px;
     }
 
-    .home_scroll {
-        margin-left: var(--mb-2-5);
-    }
-
     .skills_title {
         font-size: var(--normal-font-size);
     }
